@@ -19,7 +19,7 @@
     "William Funk <contact@williamradfunk.com> (http://www.williamrobertfunk.com/)",
     "Daniel Cook <dfcook@hotmail.com>"
   ],
-  "homepage": "https://github.com/perliedman/leaflet-measure-path",
-  "repository": "git@github.com:perliedman/leaflet-measure-path.git",
+  "homepage": "https://dfcook.github.io/leaflet-measure-path-2/",
+  "repository": "git@github.com:dfcook/leaflet-measure-path-2.git",
   "license": "ISC"
 }
